@@ -6,6 +6,7 @@
   float: left;
   padding: 5px;
   border: 50px blue;
+  border-color: black;
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
@@ -17,12 +18,4 @@
   height: auto;
   float: center;
   display: block;
-}
-
-.one-and-three {
-  background-color: lightseagreen;
-}
-
-.two-and-four {
-  background-color: lightcyan
 }
