@@ -10,3 +10,19 @@
   margin-bottom: 20px;
   box-sizing: border-box;
 }
+
+.centered {
+  margin: auto;
+  width: 70%;
+  height: auto;
+  float: center;
+  display: block;
+}
+
+.one-and-three {
+  background-color: lightseagreen;
+}
+
+.two-and-four {
+  background-color: lightcyan
+}
