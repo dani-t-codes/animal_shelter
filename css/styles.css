@@ -1,0 +1,12 @@
+.animal {
+  width: 300px;
+  font-family: arial;
+  font-size: 14pt;
+  font-weight: normal;
+  float: left;
+  padding: 5px;
+  border: 50px blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
